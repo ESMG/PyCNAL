@@ -1,0 +1,9 @@
+[submodule "PyCNAL_core"]
+	path = PyCNAL_core
+	url = https://github.com/ESMG/PyCNAL_core.git
+[submodule "PyCNAL_regridding"]
+	path = PyCNAL_regridding
+	url = https://github.com/ESMG/PyCNAL_regridding.git
+[submodule "PyCNAL_gridgeneration"]
+	path = PyCNAL_gridgeneration
+	url = https://github.com/ESMG/PyCNAL_gridgeneration.git
